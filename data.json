@@ -1,0 +1,14 @@
+[
+  {
+    "id": "book_001",
+    "title": "Flutter Basics",
+    "author": "John Doe",
+    "pdfUrl": "https://raw.githubusercontent.com/YOUR_USERNAME/my-ebooks/main/books/flutter_basics.pdf"
+  },
+  {
+    "id": "book_002",
+    "title": "Clean Code in Dart",
+    "author": "Jane Smith",
+    "pdfUrl": "https://raw.githubusercontent.com/YOUR_USERNAME/my-ebooks/main/books/clean_code.pdf"
+  }
+]
